@@ -10,4 +10,5 @@
 3. Share applications
 
 #### Основні складові
+1. [[Host (network)]]
 
