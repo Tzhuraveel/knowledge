@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81be1055964cb74f",
+        "id": "8a12f69df1931e2d",
         "type": "tabs",
         "children": [
           {
-            "id": "0deace9f865a48d9",
+            "id": "b90f3eef297c6aea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Networking/Network.md",
+                "file": "Knowledge/Cloud/Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network"
-            }
-          },
-          {
-            "id": "c794f2fd13d7ac3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Networking/Host (network).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Host (network)"
+              "title": "Cloud Computing"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge/Networking/Network.md",
+                "file": "Knowledge/Cloud/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Network"
+              "title": "Backlinks for Cloud Computing"
             }
           },
           {
@@ -196,10 +182,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "0deace9f865a48d9",
+  "active": "b90f3eef297c6aea",
   "lastOpenFiles": [
+    "Knowledge/Cloud/Data Center.md",
+    "Knowledge/Cloud/Cloud Computing.md",
+    "Knowledge/Cloud/Cloud Provider.md",
+    "Knowledge/Cloud/Cloud.md",
+    "Knowledge/Cloud/AWS.md",
+    "Knowledge/Cloud/IaaS.md",
+    "Knowledge/Cloud/PaaS.md",
+    "Knowledge/Cloud/SaaS.md",
+    "Knowledge/Cloud/Virtualization.md",
+    "Knowledge/Cloud/Virtual Machine.md",
     "Knowledge/Networking/Host (network).md",
     "Knowledge/Networking/Network.md",
+    "Knowledge/Cloud",
     "Untitled.canvas",
     "Host.md",
     "Untitled.base",
