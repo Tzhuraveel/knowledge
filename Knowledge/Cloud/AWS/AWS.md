@@ -28,12 +28,12 @@ Amazon Web Services — [[Cloud Provider]], який продає compute, stora
    AWS: deploy у потрібний Region (наприклад India), інфру там тримає AWS — хвилини замість будівництва з нуля.
 
 #### On-prem vs AWS (стисло)
-| | On-prem [[Data Center]] | AWS Cloud |
-|---|---|---|
-| Витрати | CAPEX + фіксований OPEX | Variable, pay as you go |
-| Capacity | Вгадуєш наперед | Scale за demand |
-| Експерименти | Дорого / повільно зняти | Швидко підняти й видалити |
-| Глобал | Будуй/орендуй DC локально | Deploy у Region |
+|              | On-prem [[Data Center]]   | AWS Cloud                 |
+| ------------ | ------------------------- | ------------------------- |
+| Витрати      | CAPEX + фіксований OPEX   | Variable, pay as you go   |
+| Capacity     | Вгадуєш наперед           | Scale за demand           |
+| Експерименти | Дорого / повільно зняти   | Швидко підняти й видалити |
+| Глобал       | Будуй/орендуй DC локально | Deploy у Region           |
 
 *Підсумок AWS: cost savings + time savings + доступ до вже збудованої global infrastructure. Те саме логічно стосується моделі [[Cloud Computing]] загалом; формулювання «шістки» — з AWS.*
 
